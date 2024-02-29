@@ -1,0 +1,78 @@
+.header{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.log {
+  width: 20%;
+  height: 100px;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.l,
+.S {
+  margin-top: auto;
+  font-size: 40px;
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  color: black;
+  font-size: 20px;
+  width: 50%;
+  margin: 0% 25%;
+  
+}
+.btn:hover {
+  color: red;
+  background-color: yellow;
+}
+
+.heading {
+  font-family: "Lobster", cursive;
+  font-size: 40px;
+  
+  color: #444444;
+  margin: 5% 10%;
+}
+
+.bot {
+  padding: 20px;
+}
+
+.ctt {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-items: center;
+  width: 100%;
+}
+
+.lop {
+  font-size: 30px;
+  
+  cursor: pointer;
+  font-weight: normal;
+}
+
+.sig {
+  
+  font-size: 30px;
+  cursor: pointer;
+  font-weight: normal;
+}

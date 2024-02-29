@@ -1,0 +1,30 @@
+.questions{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+.q{
+    font-size: 20px;
+    font-weight: normal;
+    color: blue;
+}
+.N{
+font-size: 20px;
+color:black;
+width: 100px;
+
+}
+:hover .N{
+    background-color: yellow;
+    border-radius: 30px;
+}
+
+.c{
+    color:green;
+}
+
+.w{
+    color: red;
+}
