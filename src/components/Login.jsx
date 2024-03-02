@@ -8,11 +8,11 @@ export const Login = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    // Perform login authentication here (e.g., send data to backend)
+    
 
     console.log("Login submitted:", { email, password });
 
-    // Reset form fields
+   
     setEmail("");
     setPassword("");
   };
